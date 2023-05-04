@@ -25,6 +25,8 @@ module.exports = {
         'gray-card': "#F3F3F8",
         "green": "#3DC51B",
         "red": "#FF0000",
+        'light': "#F4F4F4",
+        "vlight_grey": "#F5F5F5",
       },
 
       fontFamily: {
